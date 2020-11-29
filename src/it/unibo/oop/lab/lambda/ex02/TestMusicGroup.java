@@ -116,7 +116,7 @@ public final class TestMusicGroup {
     }
 
     /**
-     * Tests selecting the longest song.
+     * Tests selecting the longest song and album.
      */
     @Test
     public void testLongest() {
